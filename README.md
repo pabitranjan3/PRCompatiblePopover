@@ -4,8 +4,8 @@ This is written in objective c and  uses "Block" instead of delegates of UIPopov
 
     [compatiblePopoverController setShouldDismissHandler:^
     {
-      return YES;
-      }];
+    return YES;
+    }];
 
 This line of code replaces the delegate code of UIPopoverController :
 
