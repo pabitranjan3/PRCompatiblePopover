@@ -1,6 +1,6 @@
 # PRCompatiblePopover
 
-This is written in objective c and extensibly uses "Block" instead of delegates of UIPopoverController(<iOS8) and UIPopoverPresentationController(>iOS8).
+This is written in objective c and  uses "Block" instead of delegates of UIPopoverController(<iOS8) and UIPopoverPresentationController(>iOS8).
 
     [compatiblePopoverController setShouldDismissHandler:^
     {
